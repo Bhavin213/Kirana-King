@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223301273915",
+    "project_id": "kirana-king-6e2d1",
+    "storage_bucket": "kirana-king-6e2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223301273915:android:7b76e524f1df38cec6cf1e",
+        "android_client_info": {
+          "package_name": "com.example.kiranaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223301273915-9e2cth5klfs4n9h2k8nru4dd5ien7mje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_GUELFkezvPuUq9jAbnPk_8dtKSid-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223301273915-9e2cth5klfs4n9h2k8nru4dd5ien7mje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
