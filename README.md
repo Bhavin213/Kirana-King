@@ -4,13 +4,13 @@ Our App will connect all the local kirana store owners to sell directly to custo
 # Features:
 
 Login<br>
-RegistrationM<br>
-Seller can add product/delete product/modify product
-User can view items/ place order/view order/modify order
-Shopping cart/review cart/checkout
-Product filters/ price/category/quantity
-Order details/no.of.items/cost/delivery date
-Notifications
-Promo codes
-Direct chat with seller
-G-Pay, WhatsApp Pay integration
+Registration<br>
+Seller can add product/delete product/modify product<br>
+User can view items/ place order/view order/modify order<br>
+Shopping cart/review cart/checkout<br>
+Product filters/ price/category/quantity<br>
+Order details/no.of.items/cost/delivery date<br>
+Notifications<br>
+Promo codes<br>
+Direct chat with seller<br>
+G-Pay, WhatsApp Pay integration<br>
