@@ -15,5 +15,9 @@ Promo codes<br>
 Direct chat with seller<br>
 G-Pay, WhatsApp Pay integration<br>
 
+# Contact Details<br>
+gordhansavaliya7@gmail.com<br>
+savaliyabhavin213@gmail.com<br>
 
-# https://drive.google.com/drive/folders/1Wj4ueKaQrpWWA_3zmzM5xCWfc6EZ20xj?usp=sharing
+# Drive Link
+https://drive.google.com/drive/folders/1Wj4ueKaQrpWWA_3zmzM5xCWfc6EZ20xj?usp=sharing
