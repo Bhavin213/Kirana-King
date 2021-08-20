@@ -3,8 +3,8 @@ Our App will connect all the local kirana store owners to sell directly to custo
 
 # Features:
 
-Login
-Registration
+Login<br>
+RegistrationM<br>
 Seller can add product/delete product/modify product
 User can view items/ place order/view order/modify order
 Shopping cart/review cart/checkout
